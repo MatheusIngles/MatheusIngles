@@ -1,21 +1,38 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Endlich+Silveira;I'm+20+years+old;I+from+Brasil,+ES;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Apresentação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Endlich+Silveira;I'm+20+years+old;I'm+from+Brazil,+ES;Welcome!+:%29)](https://git.io/typing-svg)
 
+---
+
+<!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusIngles&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Endlich Silveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusIngles&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusIngles&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusIngles&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusIngles&bg_color=0d1117&color=ffffff&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+<!-- Gráfico de Atividade -->
+[![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusIngles&bg_color=0d1117&color=00bfbf&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- Troféus -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusIngles&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusIngles&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-  
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusIngles}/count.svg" /></p> 
-<br></div>
+
+---
+
+<!-- Visitantes -->
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{MatheusIngles}/count.svg" />
+  </p> 
+  <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
