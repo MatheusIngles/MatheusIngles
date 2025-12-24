@@ -3,16 +3,6 @@
 <!-- Apresentação -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Endlich+Silveira;I'm+20+years+old;I'm+from+Brasil,+ES;Welcome!+:%29)](https://git.io/typing-svg)
 
----
-
-<!-- GitHub Stats -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusIngles&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusIngles&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
 <!-- Gráfico de Atividade -->
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusIngles&bg_color=0d1117&color=00bfbf&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
